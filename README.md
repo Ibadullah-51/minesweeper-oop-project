@@ -14,7 +14,7 @@ The game provides a graphical interface where players can uncover cells while av
 * Random mine generation
 * Cell number hints
 * Click-based interaction
-* Simple GUI (Tkinter / PyGame – edit based on your project)
+* Simple GUI (Tkinter)
 
 ---
 
@@ -33,13 +33,9 @@ minesweeper/
 │
 ├── main.py
 ├── cell.py
-├── board.py
+├── settings.py
 ├── utils.py
-├── assets/
 └── README.md
-```
-
-*(Edit this according to your actual files)*
 
 ---
 
