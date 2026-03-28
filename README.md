@@ -22,7 +22,7 @@ The game provides a graphical interface where players can uncover cells while av
 
 * Python
 * OOP (Object-Oriented Programming)
-* Tkinter / PyGame (choose one)
+* Tkinter
 
 ---
 
